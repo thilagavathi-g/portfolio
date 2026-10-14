@@ -4,11 +4,11 @@
 
 var typed = new Typed(".typing", {
     strings: [
-        "Full Stack Developer",
-        "React Developer",
+        "Data Analyst",
+        "Web Developer",
         "Python Developer",
-        "Software Engineer",
-        "Web Developer"
+        "Data Enthusiast",
+        "Problem Solver"
     ],
     typeSpeed: 90,
     backSpeed: 60,
